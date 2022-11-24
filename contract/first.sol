@@ -8,4 +8,7 @@ contract simpleContract{
         number = _number;
     }
     //HI
+       function get () public returns(uint8) {
+       return number ;
+    }
 }
