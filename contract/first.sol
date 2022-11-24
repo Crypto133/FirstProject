@@ -7,4 +7,5 @@ contract simpleContract{
     function set (uint8 _number) public {
         number = _number;
     }
+    //HI
 }
